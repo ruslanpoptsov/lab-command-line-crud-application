@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nanoid": "^3.3.6"
+  },
+  "name": "lab-command-line-crud-application",
+  "description": "You will build an application that lets users round up the change for each purchase and set it as a donation.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
